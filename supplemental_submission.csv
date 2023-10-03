@@ -1,0 +1,228 @@
+Record ID,PMID,Disease,No. Composite Endpoints,Primary CE Missing,Primary Composite Type,Primary Measurement Level,Primary No. Components,Secondary Composite Type,Secondary Measurement Level,Publication Year
+161,15282655,acute heart failure,2,No,clinical,binary,4,clinical,binary,2004
+179,33663733,acute heart failure,2,No,clinical,time to event,3,clinical,time to event,2021
+236,26821621,acute heart failure,>2,No,clinical,count,5,clinical,count,2016
+239,23281844,acute heart failure,1,No,clinical,time to event,4,NA,NA,2013
+263,18724016,acute heart failure,1,No,clinical,binary,3,NA,NA,2008
+284,10832825,acute heart failure,>2,No,clinical,time to event,3,clinical,time to event,2000
+2009,16214598,acute heart failure,2,No,clinical,time to event,6,clinical,time to event,2005
+2012,33929598,acute heart failure,2,No,clinical,time to event,3,NA,NA,2021
+2016,18757088,acute heart failure,2,No,clinical,time to event,3,clinical,time to event,2008
+2018,29943364,acute heart failure,2,No,clinical,time to event,7,clinical,time to event,2018
+2033,28459958,acute heart failure,1,No,mixed,continuous,5,NA,NA,2017
+2040,21138861,acute heart failure,2,No,clinical,time to event,4,clinical,time to event,2011
+2041,25044072,acute heart failure,1,No,clinical,time to event,3,NA,NA,2014
+2045,29912429,acute heart failure,2,No,clinical,time to event,4,clinical,time to event,2018
+2046,31838113,acute heart failure,1,No,clinical,time to event,3,NA,NA,2020
+2053,30428396,acute heart failure,1,No,clinical,time to event,5,NA,NA,2019
+2059,28335841,acute heart failure,1,No,clinical,mixed,3,NA,NA,2017
+2062,31570258,acute heart failure,1,No,clinical,binary,10,NA,NA,2019
+2073,33689730,acute heart failure,1,No,clinical,time to event,3,NA,NA,2021
+2082,25294647,acute heart failure,1,No,clinical,time to event,2,NA,NA,2015
+2095,29727370,acute heart failure,1,No,clinical,binary,7,NA,NA,2018
+2110,21317148,acute heart failure,2,Yes,NA,NA,NA,clinical,time to event,2011
+2119,31100620,acute heart failure,1,No,clinical,time to event,2,NA,NA,2019
+2125,21200437,acute heart failure,2,No,clinical,time to event,4,clinical,time to event,2010
+2127,21545942,acute heart failure,1,No,clinical,binary,3,NA,NA,2011
+3001,33933206,COVID-19,1,Yes,NA,NA,NA,clinical,time to event,2021
+3002,33545096,COVID-19,1,Yes,NA,NA,NA,clinical,time to event,2021
+3003,34000257,COVID-19,1,Yes,NA,NA,NA,clinical,time to event,2021
+3004,33031764,COVID-19,1,Yes,NA,NA,NA,clinical,time to event,2020
+3005,34717820,COVID-19,>2,No,clinical,binary,2,clinical,time to event,2022
+3007,33534047,COVID-19,1,No,clinical,time to event,3,NA,NA,2021
+3008,34461042,acute heart failure,1,No,clinical,time to event,3,NA,NA,2021
+3009,34800427,COVID-19,1,Yes,NA,NA,NA,clinical,time to event,2022
+3014,34672950,COVID-19,1,Yes,NA,NA,NA,clinical,time to event,2021
+3015,34883524,acute heart failure,1,No,clinical,time to event,2,NA,NA,2022
+20003,25436213,acute heart failure,1,No,clinical,time to event,2,NA,NA,2014
+20008,27404673,acute heart failure,1,No,clinical,time to event,2,NA,NA,2016
+20012,24920349,acute heart failure,1,No,mixed,binary,2,NA,NA,2014
+20014,24070521,acute heart failure,1,No,clinical,binary,2,NA,NA,2014
+30001,32876695,COVID-19,>2,No,clinical,continuous,2,clinical,ordinal,2020
+30004,32876697,COVID-19,>2,No,clinical,ordinal,2,clinical,ordinal,2020
+30005,32445440,COVID-19,>2,No,mixed,time to event,8,mixed,ordinal,2020
+30006,32423584,COVID-19,1,No,clinical,time to event,2,NA,NA,2020
+30007,33764378,COVID-19,>2,No,clinical,continuous,2,clinical,continuous,2021
+30008,32706953,COVID-19,>2,No,mixed,ordinal,7,mixed,ordinal,2020
+30009,34351722,COVID-19,>2,No,clinical,ordinal,2,clinical,time to event,2021
+30011,32821939,COVID-19,2,No,clinical,ordinal,7,clinical,binary,2020
+30012,32459919,COVID-19,2,No,clinical,ordinal,7,clinical,binary,2020
+30013,33631065,COVID-19,>2,No,clinical,ordinal,2,clinical,continuous,2021
+30014,34351721,COVID-19,2,No,clinical,ordinal,2,clinical,binary,2021
+30015,33631066,COVID-19,>2,No,clinical,ordinal,7,clinical,ordinal,2021
+30016,33838657,COVID-19,1,No,mixed,continuous,9,NA,NA,2021
+30017,33232588,COVID-19,>2,No,mixed,ordinal,6,clinical,ordinal,2021
+30019,34133856,COVID-19,>2,No,mixed,ordinal,8,mixed,ordinal,2021
+30020,33356051,COVID-19,1,No,clinical,time to event,2,NA,NA,2021
+30021,32977137,COVID-19,>2,Yes,NA,NA,NA,clinical,time to event,2020
+30023,32187464,COVID-19,>2,No,mixed,time to event,2,clinical,time to event,2020
+30024,33400390,COVID-19,2,No,clinical,binary,2,clinical,time to event,2021
+30025,34874419,COVID-19,>2,No,mixed,time to event,7,clinical,ordinal,2021
+30026,34609549,COVID-19,>2,No,clinical,time to event,7,clinical,time to event,2021
+30027,34251506,COVID-19,>2,No,clinical,ordinal,2,clinical,ordinal,2021
+30028,34407339,COVID-19,>2,No,clinical,binary,3,clinical,ordinal,2021
+30029,34953520,COVID-19,1,No,clinical,time to event,2,NA,NA,2022
+30030,34407441,COVID-19,2,No,PRO,binary,2,PRO,continuous,2021
+30033,35315874,COVID-19,>2,No,clinical,ordinal,2,clinical,ordinal,2022
+30034,33165621,COVID-19,>2,No,mixed,ordinal,7,mixed,ordinal,2020
+30035,34606578,COVID-19,>2,No,clinical,ordinal,2,clinical,ordinal,2021
+30036,34127046,COVID-19,>2,Yes,NA,NA,NA,clinical,continuous,2021
+30038,34180141,COVID-19,1,No,PRO,time to event,2,NA,NA,2021
+30040,33974559,COVID-19,2,No,clinical,ordinal,6,clinical,time to event,2021
+30041,32579195,COVID-19,1,No,mixed,time to event,7,NA,NA,2020
+30044,35123660,COVID-19,2,No,clinical,continuous,2,mixed,time to event,2022
+30045,33247380,COVID-19,1,No,clinical,binary,2,NA,NA,2021
+30046,34048876,COVID-19,1,No,mixed,ordinal,7,NA,NA,2021
+30049,33713817,COVID-19,2,No,mixed,binary,7,clinical,binary,2021
+30050,32896292,COVID-19,>2,No,clinical,ordinal,6,clinical,ordinal,2020
+30051,33246499,COVID-19,>2,No,clinical,binary,2,mixed,ordinal,2020
+30052,34269813,COVID-19,>2,No,PRO,binary,12,clinical,binary,2021
+30055,34901997,COVID-19,2,No,mixed,ordinal,11,mixed,ordinal,2022
+30057,33472855,COVID-19,>2,No,mixed,binary,7,clinical,binary,2021
+30058,33189161,COVID-19,1,No,mixed,ordinal,9,NA,NA,2021
+30060,34756178,COVID-19,>2,No,clinical,time to event,2,clinical,time to event,2021
+30061,33907251,COVID-19,>2,No,mixed,ordinal,9,clinical,ordinal,2021
+30068,34534511,COVID-19,>2,No,mixed,ordinal,7,mixed,ordinal,2022
+30070,35040887,COVID-19,2,No,clinical,ordinal,2,clinical,binary,2022
+30071,34244316,COVID-19,>2,No,clinical,binary,2,clinical,ordinal,2022
+30074,33752127,COVID-19,2,No,mixed,ordinal,7,mixed,time to event,2021
+30075,35045989,COVID-19,>2,Yes,NA,NA,NA,clinical,continuous,2022
+30076,34672949,COVID-19,>2,No,mixed,time to event,8,mixed,time to event,2021
+30079,35093205,COVID-19,2,No,mixed,ordinal,7,clinical,binary,2022
+30081,34376401,COVID-19,>2,Yes,NA,NA,NA,mixed,time to event,2021
+30082,34592318,COVID-19,2,Yes,NA,NA,NA,clinical,binary,2022
+30085,34428542,COVID-19,>2,No,mixed,binary,7,mixed,binary,2021
+30086,35002970,COVID-19,>2,No,mixed,time to event,9,mixed,binary,2021
+30089,33677049,COVID-19,1,No,clinical,continuous,2,NA,NA,2021
+30093,34586459,COVID-19,1,No,clinical,binary,7,NA,NA,2021
+30095,33878462,COVID-19,1,Yes,NA,NA,NA,clinical,ordinal,2021
+30097,34788233,COVID-19,>2,No,clinical,continuous,3,mixed,ordinal,2021
+30098,34539185,COVID-19,1,No,clinical,ordinal,7,NA,NA,2021
+30108,34114174,COVID-19,>2,No,mixed,continuous,8,clinical,continuous,2021
+30109,33621601,COVID-19,1,No,mixed,continuous,7,NA,NA,2021
+30112,33850184,COVID-19,2,No,mixed,time to event,2,clinical,continuous,2021
+30119,35286843,COVID-19,>2,No,mixed,time to event,2,clinical,binary,2022
+30120,34042412,COVID-19,>2,No,mixed,time to event,3,clinical,time to event,2022
+30121,35081022,COVID-19,2,Yes,NA,NA,NA,clinical,continuous,2022
+30125,35233748,COVID-19,2,No,clinical,time to event,2,clinical,continuous,2022
+30127,35294537,COVID-19,2,Yes,NA,NA,NA,mixed,ordinal,2022
+30129,35191746,COVID-19,2,No,clinical,ordinal,6,clinical,ordinal,2022
+30131,34446469,COVID-19,>2,No,clinical,binary,2,mixed,ordinal,2022
+30133,34774185,COVID-19,>2,No,clinical,continuous,2,clinical,ordinal,2022
+30136,35169169,COVID-19,>2,No,mixed,binary,2,mixed,binary,2022
+30137,34871182,COVID-19,2,No,clinical,binary,2,clinical,binary,2022
+30139,35259529,COVID-19,1,No,mixed,ordinal,7,NA,NA,2022
+30141,35387813,COVID-19,1,No,clinical,time to event,2,NA,NA,2022
+30145,34801738,COVID-19,>2,No,mixed,time to event,8,mixed,time to event,2022
+30147,34898320,COVID-19,1,No,clinical,time to event,2,NA,NA,2022
+30152,34593706,COVID-19,1,No,clinical,continuous,2,NA,NA,2022
+50001,35228754,acute heart failure,1,No,mixed,mixed,4,NA,NA,2022
+50002,34937145,COVID-19,2,No,clinical,time to event,2,clinical,time to event,2022
+50003,33197395,acute heart failure,>2,No,clinical,count,2,clinical,time to event,2020
+50004,34425070,COVID-19,1,No,clinical,binary,2,NA,NA,2021
+50006,35353979,COVID-19,2,No,clinical,binary,2,mixed,time to event,2022
+50007,34480861,COVID-19,>2,No,clinical,binary,4,mixed,binary,2021
+50008,33734299,COVID-19,1,No,clinical,binary,3,NA,NA,2021
+50009,35072713,COVID-19,1,No,clinical,binary,2,NA,NA,2022
+50010,36070710,COVID-19,1,No,clinical,binary,4,NA,NA,2022
+50011,35569448,COVID-19,2,Yes,NA,NA,NA,clinical,continuous,2022
+50012,33332779,COVID-19,1,No,clinical,time to event,2,NA,NA,2021
+50013,34921756,COVID-19,1,No,clinical,binary,4,NA,NA,2022
+50014,34313687,acute heart failure,1,No,clinical,time to event,3,NA,NA,2021
+50015,35285853,COVID-19,2,No,clinical,binary,2,clinical,binary,2022
+50016,34097856,COVID-19,1,No,clinical,mixed,3,NA,NA,2021
+50017,36342109,acute heart failure,2,No,clinical,time to event,2,clinical,time to event,2023
+50020,35817072,COVID-19,2,No,mixed,time to event,2,mixed,mixed,2022
+50021,36269852,COVID-19,>2,No,PRO,time to event,2,clinical,ordinal,2022
+50023,34996756,COVID-19,2,No,clinical,binary,4,clinical,continuous,2022
+50025,36036760,COVID-19,1,No,clinical,mixed,9,NA,NA,2022
+50027,35321918,COVID-19,1,No,clinical,binary,3,NA,NA,2022
+50028,34504336,COVID-19,>2,No,clinical,binary,2,clinical,continuous,2021
+50029,36166027,COVID-19,1,Yes,NA,NA,NA,clinical,continuous,2022
+50031,35617986,COVID-19,1,No,clinical,time to event,2,NA,NA,2022
+50032,34302745,COVID-19,2,No,clinical,mixed,4,clinical,time to event,2021
+50033,34649864,COVID-19,2,No,clinical,binary,4,clinical,binary,2021
+50036,34633405,COVID-19,1,No,clinical,binary,5,NA,NA,2021
+50037,34928698,COVID-19,1,No,clinical,time to event,2,NA,NA,2022
+50039,35939810,COVID-19,1,No,clinical,time to event,2,NA,NA,2022
+50040,34916266,COVID-19,>2,No,mixed,binary,2,mixed,time to event,2022
+50046,35361632,COVID-19,1,Yes,NA,NA,NA,clinical,time to event,2022
+50047,33080005,COVID-19,1,No,clinical,binary,3,NA,NA,2021
+50048,34958123,COVID-19,2,No,clinical,binary,2,clinical,binary,2022
+50052,34145052,COVID-19,1,No,clinical,binary,3,NA,NA,2021
+50054,35568312,COVID-19,1,No,clinical,continuous,2,NA,NA,2022
+50055,36228641,COVID-19,2,No,clinical,time to event,3,clinical,time to event,2022
+50056,34842924,COVID-19,1,No,clinical,binary,2,NA,NA,2021
+50058,35810307,COVID-19,1,No,clinical,time to event,9,NA,NA,2022
+50059,35676335,COVID-19,1,Yes,NA,NA,NA,clinical,continuous,2022
+50060,36780676,COVID-19,2,No,clinical,binary,2,clinical,time to event,2023
+50061,35438754,COVID-19,2,No,clinical,binary,3,clinical,binary,2022
+50062,35779558,COVID-19,1,No,clinical,binary,2,NA,NA,2022
+50063,33865239,COVID-19,1,No,clinical,time to event,3,NA,NA,2022
+50064,34051877,COVID-19,1,No,clinical,binary,2,NA,NA,2021
+50065,37039790,COVID-19,1,No,clinical,ordinal,2,NA,NA,2023
+50068,35779560,COVID-19,1,No,clinical,time to event,2,NA,NA,2022
+50069,35780813,COVID-19,1,No,mixed,ordinal,7,NA,NA,2022
+50071,35436816,COVID-19,1,No,clinical,time to event,2,NA,NA,2022
+50073,35857827,COVID-19,1,No,clinical,binary,2,NA,NA,2022
+50075,35808843,COVID-19,2,No,clinical,time to event,8,clinical,binary,2022
+50076,27522630,acute heart failure,1,No,clinical,time to event,2,NA,NA,2016
+50077,33175088,acute heart failure,2,No,clinical,time to event,2,clinical,time to event,2022
+50078,34467402,COVID-19,>2,No,clinical,binary,9,mixed,ordinal,2022
+50079,36226977,COVID-19,>2,Yes,NA,NA,NA,clinical,continuous,2022
+50081,36383611,COVID-19,2,No,mixed,time to event,7,mixed,time to event,2022
+50083,21732835,acute heart failure,1,No,clinical,binary,2,NA,NA,2011
+50084,28402745,acute heart failure,2,No,clinical,binary,5,clinical,binary,2017
+50089,36348276,COVID-19,1,No,clinical,time to event,2,NA,NA,2022
+50091,35697146,COVID-19,1,No,clinical,ordinal,2,NA,NA,2022
+50093,36218354,COVID-19,>2,No,mixed,continuous,11,clinical,continuous,2022
+50095,35654818,COVID-19,1,No,clinical,binary,4,NA,NA,2022
+50097,36044317,COVID-19,1,No,clinical,binary,2,NA,NA,2022
+50102,36316932,COVID-19,1,Yes,NA,NA,NA,clinical,binary,2022
+50105,36102392,COVID-19,2,No,clinical,binary,2,clinical,continuous,2022
+50106,36519984,COVID-19,>2,No,mixed,time to event,7,clinical,time to event,2023
+50108,36472969,COVID-19,1,No,mixed,ordinal,7,NA,NA,2022
+50110,20925544,acute heart failure,2,No,clinical,ordinal,3,clinical,binary,2010
+50111,33813110,COVID-19,>2,No,clinical,binary,2,mixed,binary,2021
+50113,36180450,COVID-19,>2,No,mixed,ordinal,7,clinical,continuous,2022
+50114,36401728,COVID-19,>2,Yes,NA,NA,NA,clinical,continuous,2023
+50116,36190994,COVID-19,2,No,mixed,binary,8,clinical,continuous,2022
+50117,28262195,acute heart failure,1,No,clinical,time to event,2,NA,NA,2016
+50118,36639911,COVID-19,1,No,clinical,time to event,2,NA,NA,2023
+50119,12742280,acute heart failure,>2,No,clinical,binary,4,clinical,binary,2003
+50120,35304280,COVID-19,2,No,clinical,binary,3,mixed,continuous,2022
+50121,35290169,COVID-19,2,Yes,NA,NA,NA,clinical,time to event,2022
+50122,36384746,COVID-19,2,No,mixed,ordinal,7,mixed,ordinal,2022
+50123,36075243,COVID-19,>2,No,mixed,ordinal,7,mixed,time to event,2022
+50124,34755269,COVID-19,1,No,clinical,binary,2,NA,NA,2022
+50129,35485381,COVID-19,2,No,clinical,continuous,2,mixed,continuous,2022
+50130,35583232,COVID-19,2,No,clinical,ordinal,2,mixed,ordinal,2022
+50133,36940444,COVID-19,>2,No,clinical,binary,3,clinical,binary,2023
+50135,34964849,COVID-19,1,No,clinical,time to event,2,NA,NA,2021
+50137,31846016,acute heart failure,2,No,clinical,time to event,2,clinical,time to event,2019
+50140,35597286,COVID-19,1,No,clinical,binary,2,NA,NA,2022
+50141,30767504,acute heart failure,1,Yes,NA,NA,NA,clinical,time to event,2018
+50145,34638151,COVID-19,>2,No,clinical,binary,5,clinical,binary,2022
+50149,23288914,acute heart failure,2,Yes,NA,NA,NA,clinical,time to event,2013
+50151,36647298,COVID-19,1,No,mixed,binary,8,NA,NA,2023
+50153,36716303,COVID-19,>2,No,mixed,continuous,8,NA,NA,2023
+50157,36813503,COVID-19,1,Yes,NA,NA,NA,clinical,time to event,2023
+50162,36581186,COVID-19,>2,No,mixed,ordinal,3,mixed,ordinal,2023
+50164,36624180,COVID-19,>2,No,mixed,continuous,8,clinical,continuous,2023
+50173,34464358,COVID-19,2,No,clinical,binary,2,mixed,continuous,2021
+50177,33093056,COVID-19,>2,No,clinical,binary,2,clinical,binary,2020
+50179,36969618,COVID-19,>2,No,mixed,ordinal,7,mixed,ordinal,2023
+50181,37075454,COVID-19,1,No,mixed,binary,7,NA,NA,2023
+50182,36229048,COVID-19,>2,No,clinical,binary,2,clinical,binary,2023
+50183,36099435,COVID-19,>2,Yes,NA,NA,NA,clinical,continuous,2023
+50188,36515544,COVID-19,>2,No,PRO,time to event,4,PRO,time to event,2023
+50189,33657114,COVID-19,1,No,clinical,binary,3,NA,NA,2021
+50190,36581734,COVID-19,1,No,mixed,time to event,7,NA,NA,2023
+50191,36007870,COVID-19,1,No,mixed,ordinal,5,NA,NA,2023
+50193,36682681,COVID-19,1,No,mixed,binary,2,NA,NA,2023
+50194,36646988,COVID-19,1,No,clinical,binary,3,NA,NA,2023
+50199,36396519,COVID-19,2,No,clinical,binary,2,clinical,binary,2023
+50203,36356972,COVID-19,>2,Yes,NA,NA,NA,clinical,continuous,2023
+50204,34186281,COVID-19,1,Yes,NA,NA,NA,clinical,continuous,2021
+50210,35579509,COVID-19,1,Yes,NA,NA,NA,mixed,ordinal,2023
+50220,36754106,acute heart failure,1,No,clinical,time to event,3,NA,NA,2023
